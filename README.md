@@ -13,7 +13,8 @@ Repository for my Homelab setup
 
  ## Hostnames
 
-||hostname||device||ip||
+|hostname|device|ip|
+|-----|-----|----|
 |homelab1|Primi Mini 5|192.168.1.30|
 |homelab2|Primi Mini 5|192.168.1.31|
 |synology|nas|192.168.1.134|
